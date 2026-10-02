@@ -14,7 +14,7 @@ Final-year Computer Science student at PES University, Bengaluru. I build backen
 
 **Testing and CI:** pytest, pytest-cov, mypy, GitHub Actions
 
-**AI:** Groq LLM API (Llama), prompt engineering, RAG with ChromaDB
+**AI:** LLMs, prompt engineering, RAG with ChromaDB
 
 ## Contact
 
